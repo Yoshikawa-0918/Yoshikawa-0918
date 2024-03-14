@@ -16,4 +16,4 @@ Zenn         : https://zenn.dev/yoshikawa_fuma
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,java,unity,git,figma,firebase,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,java,processing,html,unity,git,figma,firebase,vscode,androidstudio)](https://skillicons.dev)
